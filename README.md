@@ -31,7 +31,6 @@ $ chmod +x odoostart.sh
 ```
 $ sudo ./odoostart.sh
 ```
-4. 
 
 
 
