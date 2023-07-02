@@ -8,7 +8,9 @@ To use this script, follow these steps:
 
 1. Run the following command to download the script:
 
-```wget -O odoostart.sh -N https://raw.githubusercontent.com/gchiham/odoobash/main/odoostart.sh```
+```
+$ wget -O odoostart.sh -N https://raw.githubusercontent.com/gchiham/odoobash/main/odoostart.sh
+```
 
 ## Description
 
